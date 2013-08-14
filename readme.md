@@ -1,6 +1,6 @@
 # bbPress Reply by Email - Mandrill Handler
 
-Send bbPress replies via Mandrill inbound mail
+Send bbPress replies via Mandrill inbound mail. This is an add-on for [bbPress Subscription](https://github.com/rmccue/bbPress-Reply-by-Email) plugin by [Ryan McCue](https://github.com/rmccue)
 
 Usage
 ------------------
